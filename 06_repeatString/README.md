@@ -7,7 +7,7 @@ Exemplo:
 repeatString('hey', 3) // devolve 'heyheyhey'
 ```
 
----
+
 
 ## ✅ O que a função deve fazer
 

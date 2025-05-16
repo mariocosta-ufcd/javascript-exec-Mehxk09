@@ -15,7 +15,7 @@ Ela devolve true apenas quando o número é 6, e false para os restantes valores
 ### 🧪 Como testar
 1. Corre no terminal:
 ```bash
-npm numberChecker.spec.js
+npm test numberChecker.spec.js
 ```
 2. No ficheiro numberChecker.spec.js vais ver vários testes.
 3. **Só o primeiro está ativado no início**. Quando esse funcionar:
